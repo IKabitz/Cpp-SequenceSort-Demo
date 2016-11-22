@@ -1,0 +1,1 @@
+/usr/bin/c++    -Wall -std=c++11    CMakeFiles/sequenceSort.dir/classdef.cpp.o CMakeFiles/sequenceSort.dir/main.cpp.o  -o sequenceSort -rdynamic 

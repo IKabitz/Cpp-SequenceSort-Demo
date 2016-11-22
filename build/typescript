@@ -1,0 +1,16 @@
+Script started on Tue 26 Jan 2016 01:57:33 PM CST
+[4makka[24m:[1m~/cs1521/projects/project1/build[0m% ./sequenceSort
+Please enter any amount of numbers, when you are done entering, the program will give you a series of statistics about the sequence of numbers you have just entered.
+Enter any amount of floating point numbers, one at a time
+Enter zero when you are finished 1 2 3 4 5 6 7 8 9 0
+
+You entered: 9 numbers.
+The last number you entered was: 9
+The sum of the numbers you entered was: 45
+The mean of the numbers is: 5
+The smallest number was: 1
+The largest number was: 9
+[4makka[24m:[1m~/cs1521/projects/project1/build[0m% exit
+exit
+
+Script done on Tue 26 Jan 2016 01:57:49 PM CST
